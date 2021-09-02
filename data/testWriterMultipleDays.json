@@ -1,0 +1,12 @@
+{"days": [
+    {
+        "prevDayNum": 1,
+        "dayNum": 1,
+        "meals": []
+    },
+    {
+        "prevDayNum": 2,
+        "dayNum": 2,
+        "meals": []
+    }
+]}

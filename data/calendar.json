@@ -1,0 +1,10 @@
+{"days": [{
+    "dayNum": 1,
+    "meals": [{
+        "foods": [{
+            "foodName": "Sandwich",
+            "calories": 123
+        }],
+        "mealName": "Breakfast"
+    }]
+}]}

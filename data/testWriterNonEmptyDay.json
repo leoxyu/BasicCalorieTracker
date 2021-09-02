@@ -1,0 +1,36 @@
+{"days": [{
+    "prevDayNum": 3,
+    "dayNum": 3,
+    "meals": [
+        {
+            "foods": [
+                {
+                    "foodName": "Toast",
+                    "calories": 300
+                },
+                {
+                    "foodName": "Milk",
+                    "calories": 100
+                }
+            ],
+            "mealName": "Breakfast"
+        },
+        {
+            "foods": [
+                {
+                    "foodName": "Chicken",
+                    "calories": 500
+                },
+                {
+                    "foodName": "Sandwich",
+                    "calories": 800
+                },
+                {
+                    "foodName": "Water",
+                    "calories": 0
+                }
+            ],
+            "mealName": "Lunch"
+        }
+    ]
+}]}
